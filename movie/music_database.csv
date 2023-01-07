@@ -1,0 +1,101 @@
+music_id,emotion,music
+1,anger,jee krda
+1,anger,yalgaar
+1,anger,mera intkam dekhegi
+1,anger,shivaay
+1,anger,sadda haq
+1,anger,abcdefu
+1,anger,enemy
+1,anger,in the end
+1,anger,dark horse
+1,anger,love the way you lie
+2,disgust,pareshaan
+2,disgust,dushman na kare dost ne vo kaam kiya hai
+2,disgust,ye duniya ye mehfil
+2,disgust,rihayii
+2,disgust,jadugarr
+2,disgust,no broken hearts
+2,disgust,bad habits
+2,disgust,without me
+2,disgust,good for you
+2,disgust,everybody hurts
+3,fear,hasi
+3,fear,lag ja gale
+3,fear,ek din aap
+3,fear,choo lo
+3,fear,aisa kyu maa
+3,fear,I wont give up on us
+3,fear,somebody I used to know
+3,fear,arcade
+3,fear,night changes
+3,fear,summertime sadness
+4,happy,namo namo
+4,happy,ram siya ram
+4,happy,india wale 
+4,happy,baazigar
+4,happy,rider
+4,happy,perfect
+4,happy,counting stars
+4,happy,baby
+4,happy,dance monkey
+4,happy,love story
+5,joy,kabhi kabhi aditi
+5,joy,love you zindagi
+5,joy,give me some sunshine
+5,joy,blues eyes
+5,joy,qaafirana
+5,joy,as it was
+5,joy,rockabye
+5,joy,shape of you
+5,joy,sugar
+5,joy,more than this
+6,neutral,manike
+6,neutral,haawa haawa
+6,neutral,tere naina
+6,neutral,insane
+6,neutral,ma bella
+6,neutral,mocking bird
+6,neutral,mood
+6,neutral,wellerman
+6,neutral,I aint worried
+6,neutral,maps
+7,sad,ae dil hai muskil
+7,sad,hossanna
+7,sad,phir bhi tumko chahunga
+7,sad,ek lambha
+7,sad,channa mereya
+7,sad,let me down slowly
+7,sad,lovely
+7,sad,play date
+7,sad,someone you loved
+7,sad,another love
+8,sadness,aaj bhi
+8,sadness,heer ranjha
+8,sadness,jaan ban gaye
+8,sadness,main rahoon ya na rahoon
+8,sadness,kahi too
+8,sadness,love me like you do
+8,sadness,little do you know
+8,sadness,dancing with your ghost
+8,sadness,glimpse of us
+8,sadness,untill I found you
+9,shame,besharmi ki height
+9,shame,sooraj dooba hai
+9,shame,raat bhar
+9,shame,hookah bar
+9,shame,nashe si chadh gayi
+9,shame,shake it off
+9,shame,shame
+9,shame,often
+9,shame,one kiss
+9,shame,need to know
+10,surprise,tum jo aaye
+10,surprise,kun faya kun
+10,surprise,maan meri jaan
+10,surprise,happy bday
+10,surprise,ye tune kya kiya
+10,surprise,hymn for the weekend
+10,surprise,just the way you are
+10,surprise,what if I told you that I love you
+10,surprise,ten feet tall
+10,surprise,senorita
